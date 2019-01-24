@@ -104,7 +104,7 @@ Request payload:
 ## Change password
 
 Route used to update the password of a user after he asked for a
-"forgot-password" email: `POST /auth/change-password`.
+"forgot-password" email: `POST /auth/reset-password`.
 
 Request payload:
 
